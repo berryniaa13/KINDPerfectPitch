@@ -1,4 +1,4 @@
-# KIND Perfect Pitch Challenge Case Study
+# KIND Mindz Perfect Pitch Challenge
 **First Place Award**  
 _Sep – Oct 2023_
 
@@ -7,60 +7,41 @@ _Sep – Oct 2023_
 ![Group Award Picture](Award%20Picture%20Group.JPG)
 ---
 
-## Table of Contents
 
-1. [Overview](#overview)
-2. [Problem Statement](#problem-statement)
-3. [Research & Analysis](#research--analysis)
-    - [Market Research](#market-research)
-    - [Survey Data Analysis](#survey-data-analysis)
-    - [User Personas](#user-personas)
-4. [Ideation & Concept](#ideation--concept)
-5. [Design Artifacts](#design-artifacts)
-    - [Wireframes](#wireframes)
-    - [High-Fidelity Mockups](#high-fidelity-mockups)
-    - [AR Prototype Screenshots/GIFs](#ar-prototype-screenshotsgifs)
-    - [Presentation](#presentation)
-6. [Results & Metrics](#results--metrics)
-7. [Conclusion](#conclusion)
-8. [Technologies Used](#technologies-used)
-9. [Contributors](#contributors)
-
----
-
-## Overview
-
-**Kind Mindz** is a first-place entry in a six-week case competition to deepen Gen Z engagement with KIND Protein Bars. Under the mantra _“clean ingredients fuel a KIND mind,”_ we combined consumer surveys, competitive analysis, and rapid Figma prototyping to deliver three interactive pillars:
-
-- **Social Media Takeover**  
-  A TikTok- and Instagram-first `#KindMindz` challenge inviting users to share bite-sized self-care rituals with KIND bars, amplified by micro-influencer partnerships.
-
-- **AR Motivation Boards**  
-  In-store QR-triggered AR experiences that overlay positive affirmations and habit-tracking gamification, transforming routine snack aisles into interactive “kindness boosters.”
-
-- **KIND Rewards Refresh**  
-  A digital spin-to-win rewards hub, accessible via packaging QR codes, letting shoppers earn free bars, exclusive merch, or micro-donations to mental-health nonprofits.
-
-Together, these elements create a seamless omnichannel loop driving both immediate trials (_+6.5% projected net sales lift_) and longer-term brand loyalty.
-
-Over the six-week sprint, our focus was on fast ideation and prototyping, so documentation was streamlined. This summer, I’ve revisited and polished the project—adding comprehensive research notes, detailed documentation, and reflections on future improvements—while this repo serves as a temporary home until my full portfolio site launches.
+**Kind Mindz** is a first-place entry in a six-week 
+case competition to deepen Gen Z engagement with KIND
+Protein Bars. Under the mantra _“clean ingredients 
+fuel a KIND mind,”_ we combined consumer surveys, 
+competitive analysis, and rapid Figma prototyping to 
+deliver three interactive pillars: a #KindMinds social
+media challenge, In-store/On-Campus Augmented Reality 
+Motivation Boards, a KIND Rewards Refresh. Together,
+these elements create a seamless omnichannel 
+loop driving both immediate trials (_+6.5% projected
+net sales lift_) and longer-term brand loyalty.
 
 **My Role:**  
 Led user research (surveys & interviews), conducted brand and market research, synthesized data into personas and word-cloud insights, and designed high-fidelity Figma prototypes of our omnichannel concept.
 
 ---
 
-## Problem Statement
+## The Challenge
 
 > **How can KIND reach Gen Z (born after 1995) snackers to expand household penetration and brand awareness, drive sales and profit, and remain true to KIND’s mission and values?**
 
+![Problem Statement](Problem%20Statement%20Screenshot.png)
+
 ---
 
-## Research & Analysis
+## The Investigation
 
-### A. Market Research
+### A. Finding the Snack Appeal
+KIND provided us with numerous research surrounding 
+snacking habits for different demographics on top of
+doing our own research on the market, the company itself,
+and its competitors
 
-**Quick Facts:**
+**Bite Sized Facts:**
 
 - In 2022, 17% more consumers began purchasing better-for-you food products (Kantar, 2022).
 - 43% of consumers buy snack nuts for their high-protein content, 39% for indulgence, and 36% for heart-health benefits (IRI, 2022).
@@ -74,7 +55,7 @@ Led user research (surveys & interviews), conducted brand and market research, s
 - 48% of consumers seek out multi-variety snack packs (Circana, 2023).
 - Gen Z prioritized health during COVID-19 more than previous generations (Sela & Bareket-Bojmel, 2022).
 
-**Marketing Trends:**
+**Taste Trends:**
 
 - Retailers vary “better-for-you” messaging: Kroger majors on farmers-market freshness; private labels at Aldi, Target, and Publix emphasize innovation (Kantar, 2022; IRI, 2022).
 - Health-halo claims differ: indulgent treats tout “zero sugar” or “grass-fed,” while healthy snacks spotlight positive inclusions like “50% more fruit” (IRI, 2022).
@@ -89,38 +70,58 @@ Led user research (surveys & interviews), conducted brand and market research, s
 ![SWOT Analysis](Insights/SWOT%20Analysis.png)
 
 
-### B. Survey Data Analysis
+### B. Understanding the Consumer 
 
-**Methodology:**  
-Over three weeks, we ran three complementary surveys (_n_ ≈ 114):
+Through the entire six weeks, we studied Gen Zs impression 
+of KIND. We had an upper hand given we were aged in
+the target demographic so we started with inspecting 
+our own access to the brands identity and our peers 
+as well. 
+
+**Gen Z Touchpoint Audit**
+
+To ground our research in real-world behavior, our
+team conducted an In-Store & Social Scan of KIND 
+Bars across local grocery aisles and on the
+social platforms Gen Z uses most. 
+
+
+We mapped shelf placement in campus-area stores,
+assessing visibility, neighboring brands, and 
+promotional signage, variety, and pricing.
+
+Simultaneously, we reviewed KIND’s TikTok and 
+Instagram channels to evaluate content cadence,
+engagement tactics, and hashtag performance. 
+
+This dual audit revealed key 
+gaps in both physical discoverability and digital 
+resonance, informing our omnichannel strategy to 
+bridge the in-store experience with compelling social
+touchpoints.
+
+
+**User Surveys**
+
+We ran three 
+complementary surveys (_n_ ≈ 114):
 
 1. **Brand Awareness Survey** (_n_=60)
 2. **Snack Habit Survey** (_n_=41)
 3. **Product Testing Survey** (_n_=13)
 
-_Distribution:_ Online via campus social channels and in person at FAMU & FSU student centers and gyms.  
-_Key Questions:_
+**Distribution:** Online via campus social channels and in person at FAMU & FSU student centers and gyms.  
+
+**Key Questions:**
 - Importance ratings (1–5) for Convenience, Taste, Cost, Health Benefits
 - Channel of survey encounter (social vs. on-campus)
 - Open feedback on likes/dislikes and purchase intent
 
-**Key Findings:**
- 
-![GenZ Brand Opinion](Insights/GenZ%20Brand%20Opinion.png)
-
-![Snack Feature Priority](Insights/Snack%20Feature%20Priority.png)
-
-![Health Benefit Importance](Insights/Health%20Benefit%20Importance.png)
+#### Gen-Z Insights
 
 ![Purchase Influences](Insights/Purchase%20Influences.png)
 
-- **Low Baseline Brand Sentiment:** 39% of Gen Z rated KIND awareness 1/10, yet 39% of that group would still purchase a bar.
-- **Taste & Cost Lead:** Taste (mean 4.50) and Cost (mean 4.20) outrank Convenience (3.73) and Health Benefits (3.47).
-- **Health Benefits Matter Less:** Though important (mean 3.47), health trails taste and cost in purchase priority.
-- **Convenience & On-the-Go Packaging:** Still a strong secondary driver.
-- **Social Influence:** 80%+ likely to buy products seen on social media or via trusted peers.
-
-### C. User Personas
+#### User Personas
 
 #### 1. On-the-Go Olivia
 - **Age/Role:** 19, Student Athlete
@@ -137,33 +138,60 @@ _Key Questions:_
 - **Goals:** Trendy, Instagram-worthy snack experiences; peer engagement
 - **Pain Points:** Finds traditional marketing stale; seeks tech-savvy, shareable concepts
 
+### C. Discovering the Problem
+
+**Little to No Brand Connection**  
+![GenZ Brand Opinion](Insights/GenZ%20Brand%20Opinion.png)
+Our surveys and in-person taste tests confirm Gen Z 
+snackers simply aren’t connecting with the brand on 
+an emotional or cultural level. Our brand-awareness 
+survey found that 39 percent of Gen Z respondents 
+rated their familiarity with KIND at just 1 out of 
+10, indicating very low top-of-mind awareness. Even 
+more concerning, many of these same “unaware” snackers
+still expressed willingness to purchase a bar, 
+suggesting that KIND’s product benefits alone aren’t
+driving recognition or loyalty. Without a meaningful
+brand presence, all of KIND’s messaging around clean
+ingredients and health benefits risks falling flat,
+especially in a crowded snack market where peer 
+recommendations and shareable experiences carry 
+more weight than traditional “better-for-you” claims.
+![Purchase Influences](Insights/Purchase%20Influences.png)
+
+**Taste & Cost Focus**
+![Snack Feature Priority](Insights/Snack%20Feature%20Priority.png)
+Taste and Cost remain the most important rated 
+features among the target audience. KIND’s 
+clean-ingredient commitment results in a slightly
+higher price point than many rivals, who often lean 
+on added sugars to amplify taste. While health and 
+“clean” messaging remain meaningful, emphasizing a 
+wallet-friendly, high-protein experience can uniquely
+position KIND Protein Bars to capture Gen Z’s 
+attention. By leading with irresistible flavor,
+clear value, and genuinely nutritious ingredients, 
+we can meet Gen Z where they shop and snack, turning
+first-time taste trials into repeat purchases.
+![Health Benefit Importance](Insights/Health%20Benefit%20Importance.png)
+
+
 ---
 
-## Ideation & Concept
-
+## The Solution
 To address Gen Z’s low resonance yet strong product intent, we spotlight KIND Protein Bars under _“clean ingredients fuel a KIND mind,”_ extending KIND’s pillars—_Kinder to our Bodies, Kinder to our Planet, Kinder to our Communities_—with a fourth: **Kinder to our Mindz**. We ideated three pillars to highlight protein benefits and clean ingredients:
 
-1. **Social Media Takeover:**  
-   Launch `#KindMindz` micro-influencer challenges on TikTok & Instagram showcasing how KIND Protein Bars fuel daily routines and self-care rituals.
 
-2. **AR Motivation Boards:**  
-   In-store QR-triggered AR that overlays positive affirmations and tracks healthy habits when users scan a KIND Protein Bar, turning snack aisles into interactive “kindness boosters.”
+1. **Social Media Takeover**  
+  A TikTok- and Instagram-first `#KindMindz` challenge inviting users to share bite-sized self-care rituals with KIND Protein bars, amplified by micro-influencer partnerships.
 
-3. **KIND Rewards Refresh:**  
-   Deploy on-pack QR codes to a spin-to-win hub, letting shoppers earn free protein bars, exclusive merch, or donate to mental-health nonprofits—reinforcing ongoing engagement.
+2. **AR Motivation Boards**  
+  In-store QR-triggered AR experiences that overlay positive affirmations and habit-tracking gamification, transforming routine snack aisles into interactive “kindness boosters.”
 
-We arrived at this omnichannel solution by merging qualitative insights (surveys, taste tests) with quantitative data (competitive benchmarking), then prototyping in Figma and validating with peer feedback to ensure alignment with Gen Z’s snack priorities: protein, taste, value, and shareability.
+3. **KIND Rewards Refresh**  
+  A digital spin-to-win rewards hub, accessible via packaging QR codes, letting shoppers earn free bars, exclusive merch, or micro-donations to mental-health nonprofits.
 
----
-
-## Design Artifacts
-
-- **Wireframes**
-- **High-Fidelity Mockups**
-- **AR Prototype Screenshots & GIFs**
-- **Final Presentation Slides**
-
-*(Links and assets in repo)*
+Together, these elements create a seamless omnichannel loop driving both immediate trials (_+6.5% projected net sales lift_) and longer-term brand loyalty.
 
 ---
 
