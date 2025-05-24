@@ -100,26 +100,20 @@ resonance, informing our omnichannel strategy to
 bridge the in-store experience with compelling social
 touchpoints.
 
+#### User Surveys
 
-**User Surveys**
-
-We ran three 
-complementary surveys (_n_ ≈ 114):
+We ran three different surveys (_n_ ≈ 114) online via 
+campus social channels and in person at FAMU & FSU 
+student centers :
 
 1. **Brand Awareness Survey** (_n_=60)
 2. **Snack Habit Survey** (_n_=41)
 3. **Product Testing Survey** (_n_=13)
 
-**Distribution:** Online via campus social channels and in person at FAMU & FSU student centers and gyms.  
-
 **Key Questions:**
 - Importance ratings (1–5) for Convenience, Taste, Cost, Health Benefits
 - Channel of survey encounter (social vs. on-campus)
 - Open feedback on likes/dislikes and purchase intent
-
-#### Gen-Z Insights
-
-![Purchase Influences](Insights/Purchase%20Influences.png)
 
 #### User Personas
 
@@ -151,13 +145,15 @@ rated their familiarity with KIND at just 1 out of
 more concerning, many of these same “unaware” snackers
 still expressed willingness to purchase a bar, 
 suggesting that KIND’s product benefits alone aren’t
-driving recognition or loyalty. Without a meaningful
+driving recognition or loyalty. 
+
+![Purchase Influences](Insights/Purchase%20Influences.png)
+Without a meaningful
 brand presence, all of KIND’s messaging around clean
 ingredients and health benefits risks falling flat,
 especially in a crowded snack market where peer 
 recommendations and shareable experiences carry 
 more weight than traditional “better-for-you” claims.
-![Purchase Influences](Insights/Purchase%20Influences.png)
 
 **Taste & Cost Focus**
 ![Snack Feature Priority](Insights/Snack%20Feature%20Priority.png)
@@ -165,7 +161,10 @@ Taste and Cost remain the most important rated
 features among the target audience. KIND’s 
 clean-ingredient commitment results in a slightly
 higher price point than many rivals, who often lean 
-on added sugars to amplify taste. While health and 
+on added sugars to amplify taste.
+
+![Health Benefit Importance](Insights/Health%20Benefit%20Importance.png)
+While health and 
 “clean” messaging remain meaningful, emphasizing a 
 wallet-friendly, high-protein experience can uniquely
 position KIND Protein Bars to capture Gen Z’s 
@@ -173,7 +172,6 @@ attention. By leading with irresistible flavor,
 clear value, and genuinely nutritious ingredients, 
 we can meet Gen Z where they shop and snack, turning
 first-time taste trials into repeat purchases.
-![Health Benefit Importance](Insights/Health%20Benefit%20Importance.png)
 
 
 ---
@@ -183,27 +181,33 @@ To address Gen Z’s low resonance yet strong product intent, we spotlight KIND 
 
 
 1. **Social Media Takeover**  
-  A TikTok- and Instagram-first `#KindMindz` challenge inviting users to share bite-sized self-care rituals with KIND Protein bars, amplified by micro-influencer partnerships.
+  A TikTok- and Instagram-first `#KindMindz` challenge 
+inviting users to share bite-sized self-care rituals with KIND Protein bars, amplified by micro-influencer partnerships.
+![Social Personas](Design%20Artifacts/SocialPersonas.png)
 
 2. **AR Motivation Boards**  
-  In-store QR-triggered AR experiences that overlay positive affirmations and habit-tracking gamification, transforming routine snack aisles into interactive “kindness boosters.”
+  In-store QR-triggered AR experiences that overlay 
+positive affirmations and habit-tracking 
+gamification, transforming routine snack aisles
+into interactive “kindness boosters.”
+![AR Boards](Design%20Artifacts/ARBoard.png)
 
 3. **KIND Rewards Refresh**  
   A digital spin-to-win rewards hub, accessible via packaging QR codes, letting shoppers earn free bars, exclusive merch, or micro-donations to mental-health nonprofits.
-
-Together, these elements create a seamless omnichannel loop driving both immediate trials (_+6.5% projected net sales lift_) and longer-term brand loyalty.
+![Rewards Refresh](Design%20Artifacts/RewardsRefresh.png)
+Together, these elements create a seamless omnichannel
+loop driving both immediate trials (_+6.5% projected 
+net sales lift_) and longer-term brand loyalty.
 
 ---
-
-## Results & Metrics
+## The Impact
 
 - **+6.5%** projected net sales lift in Gen Z segment
 - **First Place Award** among five university teams
 - **Positive Judge Feedback** on innovation, clarity, and UX rigor
 
 ---
-
-## Conclusion
+## Reflection
 
 If given more time, I would:
 
@@ -231,5 +235,5 @@ If given more time, I would:
 ## Contributors
 
 - **Nia Berry** – UX Research & Design (Computer Science)
-- **Destony Felton** – Financial Analysis & Project Management (Business Administration)
-- **Elizabethe Saintil** – Competitive Analysis (Business Administration)
+- **Destiny Felton** – Financial Analysis & Project Management (Business Administration)
+- **Elizabeth Saintil** – Competitive Analysis (Business Administration)
