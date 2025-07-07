@@ -194,6 +194,7 @@ into interactive “kindness boosters.”
 
 3. **KIND Rewards Refresh**  
   A digital spin-to-win rewards hub, accessible via packaging QR codes, letting shoppers earn free bars, exclusive merch, or micro-donations to mental-health nonprofits.
+ https://www.figma.com/proto/ldB9Li56qV4KbO5OgZBmiN/KIND--Updated-?node-id=2310-17409&p=f&t=nf8p3JXDEX96bBNb-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A111 
 ![Rewards Refresh](Design%20Artifacts/RewardsRefresh.png)
 Together, these elements create a seamless omnichannel
 loop driving both immediate trials (_+6.5% projected 
